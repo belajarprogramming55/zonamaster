@@ -5,5 +5,6 @@ int main() {
     cout << "Hello Bitches : ";
     cin >> bitches;
     cout << "You are " << bitches << " Congrats!" << endl;
+    cout << "Bitches is so good" << endl;
     return 0;
 }
